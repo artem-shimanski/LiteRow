@@ -1,0 +1,12 @@
+.DS_Store
+/.build
+/Packages
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.netrc
+.claude/
+CLAUDE.md
+Docs/
+Package.resolved
